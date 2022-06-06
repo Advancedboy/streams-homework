@@ -1,0 +1,10 @@
+﻿================
+Name: Pavel.
+SecondName: Haikvch.
+Age: 16.
+Weight: 65.
+================
+Name: Anastasia.
+SecondName: Haikvch.
+Age: 15.
+Weight: 48.

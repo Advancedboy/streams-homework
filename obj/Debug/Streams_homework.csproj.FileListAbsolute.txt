@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\Streams\Streams_homework\bin\Debug\Streams_homework.exe.config
+E:\#1Programming\2022\patterns\Streams\Streams_homework\bin\Debug\Streams_homework.exe
+E:\#1Programming\2022\patterns\Streams\Streams_homework\bin\Debug\Streams_homework.pdb
+E:\#1Programming\2022\patterns\Streams\Streams_homework\obj\Debug\Streams_homework.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\Streams\Streams_homework\obj\Debug\Streams_homework.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\Streams\Streams_homework\obj\Debug\Streams_homework.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\Streams\Streams_homework\obj\Debug\Streams_homework.exe
+E:\#1Programming\2022\patterns\Streams\Streams_homework\obj\Debug\Streams_homework.pdb
